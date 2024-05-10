@@ -1,0 +1,35 @@
+@import url("https://fonts.cdnfonts.com/css/super-creamy");
+
+.container {
+  max-width: 414px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.container .first-container {
+  background-color: white;
+  width: 325px;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  margin-top: 109px;
+  margin: 25px;
+}
+
+.container .first-container .first-container-txt h3 {
+  text-align: center;
+  padding-top: 60px;
+  font-family: "Times New Roman", Times, serif;
+}
+.container .first-container .first-container-txt p {
+  text-align: justify;
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container .second-container .second-container-img {
+  width: auto;
+  height: auto;
+  justify-self: center;
+}
